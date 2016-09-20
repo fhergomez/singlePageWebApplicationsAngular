@@ -6,6 +6,7 @@
 
   LunchCheckerCtrl.$inject = ['$scope'];
   function LunchCheckerCtrl($scope){
-    
+    $scope.name = "";
+    $scope.totalValue =
   }
 })();
